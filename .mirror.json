@@ -1,5 +1,9 @@
 {
- "assets": {},
+ "assets": {
+  "Rocks024L": "00bcbc6eb683423049393aacf155c021e91d8149",
+  "Rocks024S": "7853f1118e7d308036d7c0b0a6296638e356a694",
+  "Rocks025": "1f63fdab98475fcd61d265124947a311d1b17931"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
